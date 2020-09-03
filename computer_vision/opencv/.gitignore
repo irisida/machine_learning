@@ -1,0 +1,5 @@
+# uses the global gitignore
+# for all standard python admin files
+
+.DS_Store
+*.mp4
