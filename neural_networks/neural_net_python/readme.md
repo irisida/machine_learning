@@ -6,3 +6,7 @@ An assesment of single and multilayer perceptrons. Includes an implementation of
 - The single layer Perceptron
 - The multilayer Perceptron
 - Neural networks and the Iris dataset
+- Popular library examples
+    - SciKit-Learn
+    - Tensorflow
+    - Pytorch
