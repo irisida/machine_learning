@@ -7,3 +7,7 @@ A general repository of many projects undertaken for the purposes of learning an
 
 - [Neural Networks](https://github.com/irisida/machine_learning/tree/master/neural_networks)
     - [Neural Network in Python](https://github.com/irisida/machine_learning/tree/master/neural_networks/neural_net_python)
+
+- [NLP]()
+    - [NLP Intro pt1]()
+    - [NLP Intro pt2]()
