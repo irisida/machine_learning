@@ -1,0 +1,3 @@
+This is a sample text file for testing.
+This is the second line of the file
+...and this is the third.
