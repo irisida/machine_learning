@@ -4,7 +4,7 @@
 
 [ML Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 
-This is a general repository of many projects, courses and explorations undertaken for the purposes of learning from scratch in some areas, expanding on limited existing knowledge in others. A mix of machine learning theory, pratical and applied techniques playgrounds.
+This is a general repository of many projects, courses and explorations undertaken for the purposes of learning from scratch in some areas, expanding on limited existing knowledge in others. A mix of machine learning theory, practical and applied techniques playgrounds.
 
 ## Neural Networks
 - [Neural Networks Section Index](https://github.com/irisida/machine_learning/tree/master/neural_networks)
