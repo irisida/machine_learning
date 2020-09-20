@@ -1,5 +1,7 @@
 # Machine Learning
 
+![](https://s3.amazonaws.com/prod-www-blackline-com/blog/wp-content/uploads/2019/01/29163118/A-Conversation-With-BlackLines-Machine-Learning-Experts-720x405.jpg)
+
 A general repository of many projects undertaken for the purposes of learning and expanding existing knowledge on machine learning theory, pratical and applied techniques.
 
 - [Computer Vision](https://github.com/irisida/machine_learning/tree/master/computer_vision)
