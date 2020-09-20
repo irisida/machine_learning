@@ -2,5 +2,5 @@
 
 Welcome to the NLP segement of the repo. Here there are some course walkthroughs of introductory and typical examples.
 
-- [NLP Intro pt1]()
+- [NLP Intro pt1](https://github.com/irisida/machine_learning/tree/master/nlp/nlp_intro_pt1)
 - [NLP Intro pt2]()
