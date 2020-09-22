@@ -16,3 +16,10 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
     - Lemmatization
     - Stop words
     - Phrase matching and vocabulary
+
+- Section 4 - Parts Of Speech Tagging & Named Entity Recognition
+    - Part of speech tagging
+    - Visualising Parts of speech
+    - Named entity recognition (NER)
+    - Visualising Named entity recognition
+    - Sentence segmentation
