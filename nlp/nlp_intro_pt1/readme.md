@@ -14,4 +14,5 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
     - Tokenization
     - Stemming
     - Lemmatization
-    - Phrase matching
+    - Stop words
+    - Phrase matching and vocabulary
