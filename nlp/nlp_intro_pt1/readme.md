@@ -23,3 +23,10 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
     - Named entity recognition (NER)
     - Visualising Named entity recognition
     - Sentence segmentation
+
+ - Section 5 - Text Classification
+    - Classification Metrics
+    - The Confusion Matrix
+    - Scikit-learn introduction & overview
+    - Text Feature Extraction explanation
+    - Text Feature Extraction practical
