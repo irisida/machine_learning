@@ -24,9 +24,16 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
     - Visualising Named entity recognition
     - Sentence segmentation
 
- - Section 5 - Text Classification
+- Section 5 - Text Classification
     - Classification Metrics
     - The Confusion Matrix
     - Scikit-learn introduction & overview
     - Text Feature Extraction explanation
     - Text Feature Extraction practical
+
+- Section 6 - Semantics & Sentiment Ananlysis
+    - Introduction to Semantics & Sentiment Analysis
+    - Semantics & word vectors
+    - Semantics & word vectors with Spacy
+    - Sentiment Analysis overview
+    - Sentiment Analysis with NLTK
