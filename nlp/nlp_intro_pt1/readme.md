@@ -41,3 +41,9 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
         - Sentiment Analysis with VADER & NLTK
     - Section E2E example
         - Sentiment analysis with VADER & NLTK
+
+- Section 7 - Topic modeling
+    - Topic modeling overview
+    - Latent dirichlet allocation theory
+    - LDA with python
+    - Non-negative matrix factorization
