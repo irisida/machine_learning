@@ -6,7 +6,7 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
 - Section 2 - Python text basics
     - Strings & Text
     - Working with files
-    - Working woth PDFs
+    - Working with PDFs
     - regex
 
 - Section 3 - NLP basics
@@ -19,7 +19,7 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
 
 - Section 4 - Parts Of Speech Tagging & Named Entity Recognition
     - Part of speech tagging
-    - Visualising Parts of speech
+    - Visualising `Parts of speech`
     - Named entity recognition (NER)
     - Visualising Named entity recognition
     - Sentence segmentation
