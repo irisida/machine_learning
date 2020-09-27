@@ -47,3 +47,11 @@ This is the matching repo for the Udemy course found here https://www.udemy.com/
     - Latent dirichlet allocation theory
     - LDA with python
     - Non-negative matrix factorization
+
+- Section 8 - Deep Learning for NLP
+    - The basic Perceptron model
+    - Keras (iris data set example)
+    - RNNs
+    - LSTMs, GRU & Text generation
+    - LSTMs Python & Keras
+    - Chatbots
